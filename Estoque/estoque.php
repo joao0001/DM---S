@@ -193,12 +193,12 @@ while($coluna = mysqli_fetch_array($dados)) {
 	
 </tr>";	
 	    
-	
+	}
 	echo "Data da Consulta: " . date("d/m/y") . "<br>";
 
 	
 ?>
-}
+
 
     </tbody>
   </table>
