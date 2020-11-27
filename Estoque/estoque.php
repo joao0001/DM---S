@@ -198,7 +198,7 @@ while($coluna = mysqli_fetch_array($dados)) {
 
 	
 ?>
-
+}
 
     </tbody>
   </table>
